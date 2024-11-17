@@ -47,7 +47,7 @@ Inputs: Three inputs: A, B (the two bits to be added), and Cin (the carry-in bit
 Full Subtractor
 Inputs: Three inputs: A, B (the two bits, where A - B is calculated), and Bin (the borrow-in from a previous subtraction). Outputs: Two outputs: Diff (the resulting difference) and Bout (the borrow-out bit). Logic: Diff = A ^ B ^ Bin (XOR operation). Bout = (~A & B) | ((~A | B) & Bin) (borrow occurs if A is less than B or needs a borrow). Both circuits follow simple XOR logic for the primary result and AND-OR logic to determine carry or borrow conditions.
 
-# Program:
+# PROGRAM:
 
 #### module fulladdsub(a,b,cin,bin,sum,carry,difference,borrow);
 #### input a,b,cin,bin;
