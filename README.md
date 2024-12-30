@@ -72,7 +72,7 @@ Inputs: Three inputs: A, B (the two bits, where A - B is calculated), and Bin (t
 
 # RESULT:
 
- The Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
+Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified succesfully using Quartus software.
 
 
 
