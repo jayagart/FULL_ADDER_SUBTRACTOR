@@ -1,5 +1,5 @@
-# NAME: JAYAGAR.T
-# REG.NO: 24901219
+## NAME: JAYAGAR.T
+## REG.NO: 24901219
 # EXPERIMENT-4: FULL ADDER AND SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
